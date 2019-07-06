@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_DB_US": "SanchitSingh",
+        "MONGO_DB_PW": "0409160304112609Ss!",
+        "BASIC_URL": "http://localhost:3000/",
+        "JWT_KEY": "0409160304112609Ss!"
+    }
+}
